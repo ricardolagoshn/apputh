@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">apputh</string>
+    <string name="CampoNombre">Ingrese su nombre</string>
+    <string name="CampoApellido">Ingrese su apellido</string>
 </resources>
