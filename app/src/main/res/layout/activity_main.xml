@@ -105,6 +105,17 @@
                     app:backgroundTint="#1565C0"
                     app:cornerRadius="15dp"/>
 
+
+                <com.google.android.material.button.MaterialButton
+                    android:id="@+id/btnVerClientes"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Ver Clientes"
+                    android:textAllCaps="false"
+                    android:textSize="16sp"
+                    app:backgroundTint="#1565C0"
+                    android:layout_marginTop="10dp"/>
+
             </LinearLayout>
 
         </com.google.android.material.card.MaterialCardView>
